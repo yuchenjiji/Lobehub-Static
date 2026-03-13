@@ -1,0 +1,1 @@
+import{af as a,ag as e,ah as n,G as i,ai as o,aj as s,ak as c,al as t}from"../vendor/vendor-icons-DA3bMca7.js";const r=[{icon:a,key:"writing"},{icon:e,key:"coding"},{icon:n,key:"design"},{icon:i,key:"education"},{icon:o,key:"business"},{icon:s,key:"marketing"},{icon:c,key:"product"},{icon:t,key:"sales"}];export{r as I};

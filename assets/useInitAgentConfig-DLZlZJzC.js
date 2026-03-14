@@ -1,1 +1,0 @@
-import{Y as c,O as r,ao as u,ap as d}from"./index-DuTkvx3R.js";const f=n=>{const[o,a]=c(e=>[e.useFetchAgentConfig,e.activeAgentId]),t=r(u.isLogin),i=d(),g=n||a||i.aid||"",s=o(t,g);return{...s,isLoading:s.isLoading&&t}};export{f as u};

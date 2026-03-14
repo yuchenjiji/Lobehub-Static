@@ -1,0 +1,1 @@
+import{R as n}from"../vendor/vendor-emotion-D8kPrniB.js";import{ag as c}from"./index-CxFhYAo2.js";const a=t=>t;function u(t,e=a){const s=n.useSyncExternalStore(t.subscribe,()=>e(t.getState()),()=>e(t.getInitialState()));return n.useDebugValue(s),s}const o=t=>{const e=c(t),s=r=>u(e,r);return Object.assign(s,e),s},g=t=>t?o(t):o;export{g as c,u};

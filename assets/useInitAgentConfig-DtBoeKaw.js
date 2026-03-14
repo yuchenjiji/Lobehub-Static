@@ -1,1 +1,0 @@
-import{M as c,v as r,al as u,am as d}from"./index-DgmZNIaB.js";const m=n=>{const[a,o]=c(e=>[e.useFetchAgentConfig,e.activeAgentId]),t=r(u.isLogin),i=d(),g=n||o||i.aid||"",s=a(t,g);return{...s,isLoading:s.isLoading&&t}};export{m as u};

@@ -1,0 +1,1 @@
+import{j as t}from"../vendor/vendor-motion-D2gXNOxm.js";import{r as e}from"../vendor/vendor-emotion-D8kPrniB.js";import{P as r}from"./index-DDoe4_Ul.js";const o=e.memo(()=>t.jsx(r,{title:"Pages"}));o.displayName="PageTitle";export{o as T};

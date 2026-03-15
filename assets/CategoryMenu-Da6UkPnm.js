@@ -1,0 +1,19 @@
+import{j as o}from"../vendor/vendor-motion-D2gXNOxm.js";import{S as a}from"./ScrollShadow-DpxSHFm0.js";import{h as n}from"./index-Cbsc4Bbc.js";import{M as r}from"./Menu-V6pmabpb.js";import{r as s}from"../vendor/vendor-emotion-D8kPrniB.js";const x=({children:t,top:e=16})=>o.jsx(a,{hideScrollBar:!0,as:"aside",flex:"none",height:`calc(100vh - ${e*2+4}px)`,offset:16,size:4,style:{paddingBottom:16,position:"sticky",top:e},width:280,children:t}),i="ant",m=n(({css:t})=>({menu:t`
+      padding: 0 !important;
+      .${i}-menu-item {
+        display: flex;
+        gap: 4px;
+
+        width: 100%;
+        height: 36px;
+        margin-inline: 0;
+        padding-inline-start: 12px !important;
+
+        font-size: 14px;
+
+        .${i}-menu-title-content > a {
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+    `})),u=s.memo(({style:t,...e})=>o.jsx(r,{className:m.menu,"data-testid":"category-menu",mode:"inline",style:t,...e}));export{u as C,x as a};

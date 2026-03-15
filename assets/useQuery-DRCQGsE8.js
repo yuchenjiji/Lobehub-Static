@@ -1,0 +1,1 @@
+import{q as s}from"./base-AbuBx_QK.js";import{r as a}from"../vendor/vendor-emotion-D8kPrniB.js";import{u as e}from"./navigation-BBjS8kYr.js";const u=()=>{const[r]=e();return a.useMemo(()=>s.parse(r.toString()),[r])};export{u};

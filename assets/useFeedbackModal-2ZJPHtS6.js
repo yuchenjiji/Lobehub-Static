@@ -1,0 +1,1 @@
+import{b as s}from"./index-Br4NLp7q.js";import{c as o}from"./react-B-vxS5Yx.js";const l=o(e=>({close:()=>e({initialValues:void 0,isOpen:!1}),initialValues:void 0,isOpen:!1,open:a=>{s.getState().updateSystemStatus({showCommandMenu:!1}),e({initialValues:a,isOpen:!0})}}));export{l as u};

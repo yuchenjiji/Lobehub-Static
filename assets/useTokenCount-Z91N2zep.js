@@ -1,0 +1,1 @@
+import{r as e}from"../vendor/vendor-emotion-D8kPrniB.js";import{i as c}from"./index-BOG_ETsa.js";import{e as a}from"../vendor/vendor-es-toolkit-BI0f0n_g.js";const f=(o="")=>{const[s,n]=e.useState(0),t=e.useCallback(a(r=>{c(r).then(n).catch(()=>{n(r.length)})},300),[]);return e.useEffect(()=>(e.startTransition(()=>{t(o||"")}),()=>{t.cancel()}),[o,t]),s};export{f as u};

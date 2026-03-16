@@ -1,1 +1,0 @@
-import"./index-Cbsc4Bbc.js";import"./providerConfig-CULHvVzb.js";import{u as r}from"./store-BLj2lE78.js";import{e as o}from"./sync-Dflcso61.js";const m=()=>(r(o.remoteServerUrl),window.location.origin);export{m as u};

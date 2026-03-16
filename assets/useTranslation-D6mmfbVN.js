@@ -1,1 +1,0 @@
-import{q as a}from"./index-CMYT05q7.js";import{r as e}from"../vendor/vendor-emotion-D8kPrniB.js";const p=t=>{const{t:r,locale:u}=a();return{locale:u,t:e.useMemo(()=>t?n=>{const o=r(n),s=t[n];return o===n&&s?s:o}:r,[r,t])}};export{p as u};

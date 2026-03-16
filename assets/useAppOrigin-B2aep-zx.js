@@ -1,0 +1,1 @@
+import"./index-BTYm_psc.js";import"./providerConfig-CULHvVzb.js";import{u as r}from"./store--jHKZsvt.js";import{e as o}from"./sync-MI5iQw2W.js";const m=()=>(r(o.remoteServerUrl),window.location.origin);export{m as u};

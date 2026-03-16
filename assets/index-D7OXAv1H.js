@@ -1,0 +1,1 @@
+import{o as s}from"./index-CMYT05q7.js";import{r}from"../vendor/vendor-emotion-D8kPrniB.js";import{j as a}from"../vendor/vendor-motion-ksfQGfvU.js";const m=t=>r.memo(e=>r.createElement(t,e)),o=t=>{const e=r.use(s)?.aAs||"a";return a.jsx(r.useMemo(()=>m(e),[e]),{...t})};o.displayName="A";var c=o;export{c as A};
